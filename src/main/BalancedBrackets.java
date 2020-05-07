@@ -29,6 +29,8 @@ public class BalancedBrackets {
             } else if (ch == ']') {
                 brackets--;
             }
+            //checks if ] count got ahead of [ count
+            if (brackets < 0) {return false;}
         }
         return brackets == 0;
     }

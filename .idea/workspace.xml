@@ -1,9 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:master" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="705a5edb-1f12-41a3-a9da-d103c200797d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/junit-studio-lc101/main/BalancedBrackets.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/junit-studio-lc101/main/BalancedBrackets.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/junit-studio-lc101/test/BalancedBracketsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/junit-studio-lc101/test/BalancedBracketsTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/BalancedBrackets.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/BalancedBrackets.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/BalancedBracketsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/BalancedBracketsTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,32 +149,90 @@
       <option name="presentableId" value="Default" />
       <updated>1572212264650</updated>
     </task>
+    <task id="LOCAL-00001" summary="setup for studio">
+      <created>1588833532224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588833532224</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="setup for studio" />
+    <option name="LAST_COMMIT_MESSAGE" value="setup for studio" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1399" y="275" key="#Project_Structure" timestamp="1588832754160">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1399" y="275" key="#Project_Structure/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588832754160" />
-    <state width="1238" height="398" key="GridCell.Tab.0.bottom" timestamp="1588833291092">
+    <state width="2517" height="400" key="GridCell.Tab.0.bottom" timestamp="1588888426379">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1238" height="398" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588833291092" />
-    <state width="1238" height="398" key="GridCell.Tab.0.center" timestamp="1588833291092">
+    <state width="2517" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588888426379" />
+    <state width="2517" height="400" key="GridCell.Tab.0.center" timestamp="1588888426379">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1238" height="398" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588833291092" />
-    <state width="1238" height="398" key="GridCell.Tab.0.left" timestamp="1588833291092">
+    <state width="2517" height="400" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588888426379" />
+    <state width="2517" height="400" key="GridCell.Tab.0.left" timestamp="1588888426379">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1238" height="398" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588833291092" />
-    <state width="1238" height="398" key="GridCell.Tab.0.right" timestamp="1588833291092">
+    <state width="2517" height="400" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588888426379" />
+    <state width="2517" height="400" key="GridCell.Tab.0.right" timestamp="1588888426379">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1238" height="398" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588833291092" />
+    <state width="2517" height="400" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588888426379" />
+    <state width="1238" height="489" key="GridCell.Tab.1.bottom" timestamp="1588833490089">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1238" height="489" key="GridCell.Tab.1.bottom/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588833490089" />
+    <state width="1238" height="489" key="GridCell.Tab.1.center" timestamp="1588833490089">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1238" height="489" key="GridCell.Tab.1.center/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588833490089" />
+    <state width="1238" height="489" key="GridCell.Tab.1.left" timestamp="1588833490089">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1238" height="489" key="GridCell.Tab.1.left/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588833490089" />
+    <state width="1238" height="489" key="GridCell.Tab.1.right" timestamp="1588833490089">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1238" height="489" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588833490089" />
+    <state x="1511" y="433" key="Vcs.Push.Dialog.v2" timestamp="1588833547454">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1511" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588833547454" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/C5_UnitTesting$BalancedBracketsTest.ic" NAME="BalancedBracketsTest Coverage Results" MODIFIED="1588833224732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+    <SUITE FILE_PATH="coverage/C5_UnitTesting$BalancedBracketsTest_emptyTest.ic" NAME="BalancedBracketsTest.emptyTest Coverage Results" MODIFIED="1588888741528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>test.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/C5_UnitTesting$BalancedBracketsTest.ic" NAME="BalancedBracketsTest Coverage Results" MODIFIED="1588888756322" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>test.*</FILTER>
     </SUITE>
   </component>

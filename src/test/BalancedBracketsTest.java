@@ -16,6 +16,25 @@ public class BalancedBracketsTest {
     public void onlyBracketsReturnsTrue() {
         assertTrue(BalancedBrackets.hasBalancedBrackets("[]"));
     }
-
+    //jpg test 1
+    @Test
+    public void oneLeftBracketReturnsFalse() {
+        assertFalse(BalancedBrackets.hasBalancedBrackets("["));
+    }
+    //jpg test 2
+    @Test
+    public void oneRightBracketReturnsFalse() {
+        assertFalse(BalancedBrackets.hasBalancedBrackets("]"));
+    }
+    //jpg test 3
+    @Test
+    public void firstBracketNotRightBracket() {
+        assertFalse(BalancedBrackets.hasBalancedBrackets("]["));
+    }
+    //jpg test 4
+    @Test
+    public void lastBracketNotLeftBracket() {
+        assertFalse(BalancedBrackets.hasBalancedBrackets("[]]["));
+    }
 
 }
