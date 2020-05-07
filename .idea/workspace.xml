@@ -25,11 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="705a5edb-1f12-41a3-a9da-d103c200797d" name="Default Changelist" comment="done some studio tests">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/junit-studio-lc101/test/BalancedBracketsTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/junit-studio-lc101/test/BalancedBracketsTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/BalancedBracketsTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/BalancedBracketsTest.java" afterDir="false" />
-    </list>
+    <list default="true" id="705a5edb-1f12-41a3-a9da-d103c200797d" name="Default Changelist" comment="implemented 2 given test plus 12 jpg tests" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -179,7 +175,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588888873596</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="implemented 2 given test plus 12 jpg tests">
+      <created>1588893723441</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588893723441</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -208,29 +211,30 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="setup for studio" />
     <MESSAGE value="done some studio tests" />
-    <option name="LAST_COMMIT_MESSAGE" value="done some studio tests" />
+    <MESSAGE value="implemented 2 given test plus 12 jpg tests" />
+    <option name="LAST_COMMIT_MESSAGE" value="implemented 2 given test plus 12 jpg tests" />
   </component>
   <component name="WindowStateProjectService">
     <state x="1399" y="275" key="#Project_Structure" timestamp="1588832754160">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1399" y="275" key="#Project_Structure/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588832754160" />
-    <state width="2517" height="400" key="GridCell.Tab.0.bottom" timestamp="1588893111986">
+    <state width="2517" height="400" key="GridCell.Tab.0.bottom" timestamp="1588893725764">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588893111986" />
-    <state width="2517" height="400" key="GridCell.Tab.0.center" timestamp="1588893111986">
+    <state width="2517" height="400" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588893725764" />
+    <state width="2517" height="400" key="GridCell.Tab.0.center" timestamp="1588893725764">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="400" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588893111986" />
-    <state width="2517" height="400" key="GridCell.Tab.0.left" timestamp="1588893111986">
+    <state width="2517" height="400" key="GridCell.Tab.0.center/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588893725764" />
+    <state width="2517" height="400" key="GridCell.Tab.0.left" timestamp="1588893725764">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="400" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588893111986" />
-    <state width="2517" height="400" key="GridCell.Tab.0.right" timestamp="1588893111986">
+    <state width="2517" height="400" key="GridCell.Tab.0.left/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588893725764" />
+    <state width="2517" height="400" key="GridCell.Tab.0.right" timestamp="1588893725764">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="2517" height="400" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588893111986" />
+    <state width="2517" height="400" key="GridCell.Tab.0.right/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588893725764" />
     <state width="1238" height="489" key="GridCell.Tab.1.bottom" timestamp="1588833490089">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -247,10 +251,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1238" height="489" key="GridCell.Tab.1.right/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588833490089" />
-    <state x="1511" y="433" key="Vcs.Push.Dialog.v2" timestamp="1588888901225">
+    <state x="1511" y="433" key="Vcs.Push.Dialog.v2" timestamp="1588893731207">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1511" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588888901225" />
+    <state x="1511" y="433" key="Vcs.Push.Dialog.v2/0.0.2560.1400/-1920.0.1920.1040@0.0.2560.1400" timestamp="1588893731207" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/C5_UnitTesting$BalancedBracketsTest_emptyTest.ic" NAME="BalancedBracketsTest.emptyTest Coverage Results" MODIFIED="1588888741528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
